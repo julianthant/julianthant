@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianthant&label=Profile%20views&color=0e75b6&style=flat" alt="julianthant" /> </p>
 
-- 🔭 I’m currently working on [SmartNotesAI](https://github.com/DongFam/smartnotes-ai)
-
-- 🌱 I’m currently learning **FastAPI, Core ML, SwiftUI, IOS Development**
+- 🔭 I’m currently working on [HRAutomation]([https://github.com/DongFam/smartnotes-ai](https://github.com/julianthant/hr-automation))
 
 - 👨‍💻 All of my projects are available at [https://julianzaw.tech](https://julianzaw.tech)
 
