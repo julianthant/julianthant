@@ -14,7 +14,7 @@ Computer Science student at UC San Diego (B.S., expected June 2027). I build bac
 | [Yaps](https://github.com/julianthant/yaps) | Real-time one-to-one chat with friend requests | Next.js, Redis, Pusher, NextAuth |
 | [CodeCave](https://github.com/julianthant/codecave) | Developer community app for projects and collaborators (in progress) | Next.js, Supabase, Drizzle |
 | [SizeBook](https://github.com/julianthant/sizebook) | iOS app for remembering people's clothing sizes (in progress) | Swift, SwiftUI, SwiftData |
-| [Clothes.co](https://github.com/julianthant/full-stack-clothing-store) | Clothing store with OAuth, email verification and two-factor sign-in | Next.js, Auth.js, Prisma, MongoDB |
+| [Clothes.co](https://github.com/julianthant/clothes.co) | Clothing store with OAuth, email verification and two-factor sign-in | Next.js, Auth.js, Prisma, MongoDB |
 
 ## Tools I use
 
