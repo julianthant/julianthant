@@ -11,7 +11,7 @@ I study computer science at UC San Diego and expect to graduate in June 2027. Mo
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [Sole Steals](https://github.com/julianthant/online-shop) · [live](https://solesteals.netlify.app) | Sneaker store with a cart, checkout, order tracking and accounts | React, Firebase, Tailwind |
+| [Sole Steals](https://github.com/julianthant/sole-steals) · [live](https://solesteals.netlify.app) | Sneaker store with a cart, checkout, order tracking and accounts | React, Firebase, Tailwind |
 | [Yaps](https://github.com/julianthant/yaps) | One-to-one chat where messages and friend requests arrive in real time | Next.js, Redis, Pusher, NextAuth |
 | [Clothes.co](https://github.com/julianthant/clothes.co) | Clothing store with OAuth, email verification and two-factor sign-in | Next.js, Auth.js, Prisma, MongoDB |
 | [CodeCave](https://github.com/julianthant/codecave) | Community app where developers share projects and find collaborators (in progress) | Next.js, Supabase, Drizzle |
