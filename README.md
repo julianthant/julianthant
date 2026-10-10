@@ -4,7 +4,7 @@ I study computer science at UC San Diego and expect to graduate in June 2027. Mo
 
 ## What I've built at work
 
-- **UC San Diego, Human Resources (now).** Onboarding, separations and employee lookups were all done by hand. I proposed and built a platform that runs them across UCPath, CRM and other university systems, and members of the HR team use it now. It's built with TypeScript, Playwright, Hono and SQLite. The code is private because it handles employee data.
+- **UC San Diego, Human Resources (now).** Onboarding, separations and employee lookups were all done by hand. I proposed and built a platform that runs them across UCPath, CRM and other university systems, and members of the HR team use it now. It's built with TypeScript, Playwright, Hono and SQLite. The [code is public](https://github.com/julianthant/hr-automation), with synthetic data in place of employee records.
 - **Santa Monica College, Insurance Claims.** The team tracked voicemails with handwritten notes, so nobody could tell who had handled a claim. I built Scribe, which checks an Outlook mailbox every five minutes through Microsoft Graph, transcribes new voicemails with Azure Speech-to-Text and logs each one to a shared tracker.
 
 ## Projects
