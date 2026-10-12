@@ -1,6 +1,6 @@
 ## Hi, I'm Julian
 
-I'm a CS student at UC San Diego. I like building things that handle the boring, repetitive parts of someone's job. Lately that's meant browser automation, AI agents, and a bit of quant research on the side.
+I'm a CS student at UC San Diego. I worked in HR offices and took the initiative to automate a lot of the workflows there, some of which include onboarding, separations and voicemail transcriptions. I'm currently building Tether (a coding agent that can safely work for hours on its own) and Driftwood (a stock research and paper trading pipeline) on the side. 
 
 ## What I'm building
 
